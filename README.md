@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **coding on a potato computer** 🥲
 
-- ⚡ Fun fact **I can be bribed with pastries and cute animal pics, and I definitely suggest you try to do so**
+- ⚡ Fun fact: **I can be bribed with pastries and cute animal pics, and I definitely suggest you try to do so**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
