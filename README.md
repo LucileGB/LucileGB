@@ -1,11 +1,11 @@
 <h1 align="center">Hello! I'm Lucile Garrigoux</h1>
-<h3 align="center">A French Python developper (currently open for work!)</h3>
+<h3 align="center">A French Python developper (currently open to work!)</h3>
 
 📝 I'm a flexible tinkerer whose specialties are mostly Python (Django, Django Rest Framework, BeautifulSoup, Pytest...), with basic knowledge of HTML, CSS and JS and notions in Docker and CircleCI. I love nothing more than to learn something new, from new frameworks to odd History trivia!
 
-- 🔭 I’m currently working on **a small scraper using BeautifulSoup and Tkinter**! 💪
+- 🔭 I’m currently working on **a writing prompts manager**! 💪
 
-- 🌱 I’m currently learning **Tkinter**!
+- 🌱 I’m currently learning **Flask**!
 
 - 💬 Ask me about **learning development on a potato computer** 🥲
 
