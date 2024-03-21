@@ -19,19 +19,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p><b>BACK :</b></p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django, php,javascript" />
   </a>
 </p>
 <p><b>FRONT :</b></p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,vue" />
   </a>
 </p>
 <p><b>VERSION CONTROL :</b></p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
   </a>
