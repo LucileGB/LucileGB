@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Lucile Garrigoux</h1>
 <h3 align="center">A French Junior developper</h3>
 
-<p>📝 I'm a flexible tinkerer whose interests lie mostly in backend development (Python 3.7+, PHP 7+), but who also occasionally plays around with CSS and javascript. I put a strong emphasis on sharing knowledge and coding for others – that include an emphasis on proper documentation and clean code.</p>
-<p>I love nothing more than to learn something new, from coding tips to History trivia!</p>
+<p>📝 I'm a flexible tinkerer whose interests lie mostly in backend development (Python 3.7+, PHP 7+), but who also occasionally plays around with CSS and javascript. I put a strong emphasis on sharing knowledge and coding for others – that includes an emphasis on proper documentation and clean code.</p>
+<p>📝 I love nothing more than to learn something new, from coding tips to History trivia!</p>
 
 - 🔭 I’m currently working on **a writing prompts manager**! 💪
 
