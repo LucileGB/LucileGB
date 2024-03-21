@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Vue**!
 
-- 💬 Ask me about **having learned development on a potato computer** 🥲
+- 💬 Ask me about **having learned development on a potato computer** :')
 
-- ⚡ Fun fact: **I can be bribed with pastries and cute animal pics, and I definitely suggest you try to do so**!
+- ⚡ Fun fact: **I can be bribed with pastries and cute animal pics, and I definitely suggest you try to do so!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,7 @@
 <p><b>BACK :</b></p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django, php,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,django,php,javascript" />
   </a>
 </p>
 <p><b>FRONT :</b></p>
